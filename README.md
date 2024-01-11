@@ -1,3 +1,3 @@
 # Demo
-This is my First GitHub Repository
+This is my First GitHub Repository.
 Author- Arpit Chhabra
